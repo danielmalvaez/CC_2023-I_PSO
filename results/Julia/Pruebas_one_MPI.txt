@@ -1,0 +1,36 @@
+-------------------------------
+Pruebas de MPI_one.jl
+Las pruebas se realizaron con 1200 particulas y 2000 iteraciones
+-------------------------------
+
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 3699 milliseconds
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 4903 milliseconds
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 5061 milliseconds
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 4687 milliseconds
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 3972 milliseconds
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 4421 milliseconds
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 4320 milliseconds
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 3431 milliseconds
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 3422 milliseconds
+El valor mínimo está en x=0.0
+Tiempo de ejecución: 3483 milliseconds
+
+Los tiempos de ejcución fueron:
+[3699, 4903, 5061, 4687, 3972, 4421, 4320, 3431, 3422, 3483]
+
+Tiempo minimo: 3422
+Tiempo maximo: 5061
+Tiempo promedio: 4139.9
+Std del tiempo: 624.8145413729669
+
+Respuestas:
+[0,0,0,0,0,0,0,0,0,0]

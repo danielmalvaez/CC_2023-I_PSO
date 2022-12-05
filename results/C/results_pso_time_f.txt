@@ -1,0 +1,30 @@
+Con 12 procesadores
+El valor minimo esta en x =  -3.522211 
+Tiempo de ejecución: 0.969078 
+Con 12 procesadores
+El valor minimo esta en x =  2.554248 
+Tiempo de ejecución: 0.948213 
+Con 12 procesadores
+El valor minimo esta en x =  2.554249 
+Tiempo de ejecución: 0.961496 
+Con 12 procesadores
+El valor minimo esta en x =  -4.168364 
+Tiempo de ejecución: 0.832474 
+Con 12 procesadores
+El valor minimo esta en x =  2.554248 
+Tiempo de ejecución: 0.814402 
+Con 12 procesadores
+El valor minimo esta en x =  2.554247 
+Tiempo de ejecución: 0.825283 
+Con 12 procesadores
+El valor minimo esta en x =  2.554252 
+Tiempo de ejecución: 0.879470 
+Con 12 procesadores
+El valor minimo esta en x =  2.554246 
+Tiempo de ejecución: 0.870560 
+Con 12 procesadores
+El valor minimo esta en x =  -3.274767 
+Tiempo de ejecución: 0.844582 
+Con 12 procesadores
+El valor minimo esta en x =  2.554244 
+Tiempo de ejecución: 0.864845 

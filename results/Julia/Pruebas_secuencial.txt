@@ -1,0 +1,36 @@
+-------------------------------
+Pruebas de PSO secuencial
+Las pruebas se realizaron con 1200 particulas y 2000 iteraciones
+-------------------------------
+El valor mínimo está en [7.496127952810738e-7] 
+Tiempo de ejecución: 1966 milliseconds 
+El valor mínimo está en [6.782416832606941e-7] 
+Tiempo de ejecución: 1956 milliseconds 
+El valor mínimo está en [2.324253567720369e-6] 
+Tiempo de ejecución: 1949 milliseconds 
+El valor mínimo está en [-1.7918887320611532e-5] 
+Tiempo de ejecución: 1942 milliseconds 
+El valor mínimo está en [3.0502085583542816e-6] 
+Tiempo de ejecución: 1952 milliseconds 
+El valor mínimo está en [-3.2488787660156504e-7] 
+Tiempo de ejecución: 1940 milliseconds 
+El valor mínimo está en [7.616294892542896e-7] 
+Tiempo de ejecución: 1943 milliseconds 
+El valor mínimo está en [-1.0620802755219316e-6] 
+Tiempo de ejecución: 1933 milliseconds 
+El valor mínimo está en [2.314849015513931e-6] 
+Tiempo de ejecución: 1965 milliseconds 
+El valor mínimo está en [-2.3484925293359993e-7] 
+Tiempo de ejecución: 1931 milliseconds 
+
+Tiempos de ejcución:
+[1966, 1956, 1949, 1942, 1952, 1940, 1943, 1933, 1965, 1931]
+Tiempo minimo: 1931
+Tiempo maximo: 1966
+Tiempo promedio: 1947.7
+Std del tiempo: 12.165981715879369
+
+Respuestas: 
+[7.496127952810738e-7, 6.782416832606941e-7, 2.324253567720369e-6, -1.7918887320611532e-5,
+3.0502085583542816e-6,-3.2488787660156504e-7,7.616294892542896e-7,-1.0620802755219316e-6
+2.314849015513931e-6,-2.3484925293359993e-7]

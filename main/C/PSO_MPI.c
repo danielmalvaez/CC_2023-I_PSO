@@ -41,9 +41,9 @@ int main(void) {
     d = 1;
     a = -6;
     b = 6;
-    Part_N = 1200;
-    Num_P = 1200 / comm_sz;
-    Max_iter = 2000;
+    Part_N = 100000;
+    Num_P = Part_N / comm_sz;
+    Max_iter = 3000;
     min_act = pso(d, a, b, &f, Num_P, Max_iter);
 
     RES_MIN = 0.0;
@@ -67,7 +67,7 @@ int main(void) {
         printf("El valor minimo esta en x =  %f \n", RES_MIN);
         end = clock();
         execution_time = ((double)(end - start))/CLOCKS_PER_SEC;
-        printf("Tiempo de ejecución: %f", execution_time);
+        printf("Tiempo de ejecución: %f \n", execution_time);
     }
 
     MPI_Finalize();
