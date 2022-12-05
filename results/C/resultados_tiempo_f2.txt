@@ -1,0 +1,20 @@
+Con 12 procesadores
+El valor minimo esta en x =  0.000109 
+Con 12 procesadores
+El valor minimo esta en x =  0.000154 
+Con 12 procesadores
+El valor minimo esta en x =  5.936923 
+Con 12 procesadores
+El valor minimo esta en x =  5.936923 
+Con 12 procesadores
+El valor minimo esta en x =  0.000224 
+Con 12 procesadores
+El valor minimo esta en x =  0.000224 
+Con 12 procesadores
+El valor minimo esta en x =  0.000018 
+Con 12 procesadores
+El valor minimo esta en x =  -5.920065 
+Con 12 procesadores
+El valor minimo esta en x =  -5.920065 
+Con 12 procesadores
+El valor minimo esta en x =  0.000006 
