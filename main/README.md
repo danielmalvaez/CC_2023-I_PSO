@@ -1,6 +1,6 @@
 # Main
 
-Esta carpeta contiene en dos carpetas los archivos en C y los de Julia.
+Esta carpeta contiene en dos subcarpetas los archivos en C y los de Julia.
 
 
 	
@@ -13,9 +13,17 @@ Esta carpeta contiene en dos carpetas los archivos en C y los de Julia.
 	
 	* PSO_MPI.c
 
-* Julia:
-	* 
+* Julia:   
+	Funciones que tienen tanto las funciones (en las que evaluaremos) y la función del método PSO (secuencial, una variable y varias variables) que encuentra en este caso un mínimo global para dos funciones de R en R:   
+	* func.jl
+	* PSO.jl
+
+	Archivos main que hacen uso de la librería MPI y la cual ayuda a ejecutar nuestro código en paralelo. Contienen la implementación en memoria distribuida del PSO en una o varias dimensiones:   
 	
+
+
+	* MPI_multi.jl
+	* MPI_one.jl
 	
 ### Ejecutar
 
@@ -24,3 +32,8 @@ Esta carpeta contiene en dos carpetas los archivos en C y los de Julia.
 	
 	`mpirun -n 12 ./pso_mpi_f`   
 	`mpirun -n 12 ./pso_mpi_f2`
+	
+* Julia:   
+	Se ejecutan los archivos con los siguientes comandos: 
+	
+	`mpexec -n 12 MPI_one.jl`
